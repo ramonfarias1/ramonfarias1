@@ -11,15 +11,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, me focando no Desenvolv
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-# Projetos💡
-<div style="display:flex;">
-  <div>
-    <img src="https://github.com/ramonfarias1/ramonfarias1/blob/main/Screenshot%20(52).png" width=200 height=100>
-    bla bla bla
-  </div>
-  <div>
-    <img src="https://github.com/ramonfarias1/ramonfarias1/blob/main/Screenshot%20(52).png" width=200 height=100>
-    bla bla bla
-  </div>
-</div>
